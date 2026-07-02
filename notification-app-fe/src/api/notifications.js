@@ -1,2 +1,4 @@
-export function fetchNotifications() {
+export async function fetchNotifications() {
+
+    
 }
